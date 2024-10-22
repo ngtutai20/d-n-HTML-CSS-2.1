@@ -4,6 +4,7 @@
 
 html {
     font-size: 62.5%;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -175,7 +176,7 @@ a {
     border-top: 10px;
     border-bottom: 10px;
     border-style: solid;
-    border-color : #FFF #FFF #FFF aqua;
+    border-color : #FFF #FFF #FFF #1EBFC1;
 }
 
 .hero--bg {
